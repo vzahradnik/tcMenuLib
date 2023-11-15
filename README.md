@@ -1,4 +1,8 @@
-# TcMenu library for Arduino and mbed.
+# TcMenu library for Arduino and mbed
+[![Arduino_CI](https://github.com/davetcc/tcMenuLib/actions/workflows/arduino_ci.yml/badge.svg)](https://github.com/davetcc/tcMenuLib/actions/workflows/arduino_ci.yml)
+[![Documentation](https://img.shields.io/badge/Documentation-brightgreen.svg)](https://www.thecoderscorner.com/products/arduino-libraries/tc-menu/)
+[![License: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/davetcc/tcMenuLib/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/davetcc/tcMenuLib.svg?maxAge=3600)](https://github.com/davetcc/tcMenuLib/releases)
 
 ## Summary
 
